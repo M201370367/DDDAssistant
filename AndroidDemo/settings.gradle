@@ -1,0 +1,5 @@
+rootProject.name = "AndroidDemo"
+include ':app'
+include ':dddcommon'
+include ':submodule00'
+include ':submodule01'
