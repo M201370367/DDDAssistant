@@ -29,9 +29,8 @@ DDD各层的主要职责和怎么分工协作如下图(微服务应用):
 ## 如何使用
 
 ### 步骤一 安装 DDDAssistant plugin
-将DDDAssistant.jar下载到本地
 
-打开Android Studio，File-Settings-Plugins-Install Plugin From Disk-选中DDDAssistant.jar进行安装
+打开Android Studio，File-Settings-Plugins-Marketplace 搜索DDD Assistant，然后安装
 
 安装后restart
 
@@ -39,13 +38,13 @@ DDD各层的主要职责和怎么分工协作如下图(微服务应用):
 将AndroidDemo中的dddcommon模块移植自己工程中
 
 ### 步骤三 创建DDD Class
-可根据需要，使用DDD工具创建各种DDD Class
+可根据需要，使用DDD工具创建各种DDD class
 
-DDD工具创建入口：
+DDD工具创建DDD class入口：
 ![img](https://img-blog.csdnimg.cn/20bbadfc7e2c4212bf5ed0d170a5bbe8.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBASGFyb2xkX1RpaGFu,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
 
 ### 步骤四 查看DDD实现
-在文本编辑处按下快捷键：ctrl + d，会弹出如下结果：
+在文本编辑处按下快捷键：alt + d，会弹出如下结果：
 ![img](https://img-blog.csdnimg.cn/39e2822faf3343f5baed836690c5e007.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBASGFyb2xkX1RpaGFu,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
 
 ------------------------------------------------------------------
